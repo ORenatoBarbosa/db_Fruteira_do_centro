@@ -1,0 +1,7 @@
+id,produto,preco,qtproduto,dtvencimento,categoria_id
+2,"Chandelle Chocolate",69.99,20,2022-08-01,5
+12,Chuchu,5.00,6,2022-09-06,2
+17,Cebola,6.00,80,2022-09-04,2
+19,"Coco Seco",15.00,32,2022-09-15,1
+21,Couve,3.00,6,2022-03-05,3
+22,Couve-Flor,4.00,6,2022-03-08,3
